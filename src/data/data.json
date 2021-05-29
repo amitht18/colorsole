@@ -1,0 +1,20 @@
+{
+  "allDesigns": [
+    {
+      "name": "Soft Glow",
+      "fontFamily": "Avenir",
+      "fontSize": "23px",
+      "fontStyle": "normal",
+      "color": "#ff4001",
+      "backgroundColor": "#3bced1"
+    },
+    {
+      "name": "Dark In danger",
+      "fontFamily": "Ayuthaya",
+      "fontSize": "12px",
+      "fontStyle": "normal",
+      "color": "#EEE",
+      "backgroundColor": "#233454"
+    }
+  ]
+}
