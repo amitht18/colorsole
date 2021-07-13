@@ -12,10 +12,6 @@ export default function App() {
   const [variableName, updateVariableName] = useState<string>("countTheSheeps");
   const [messageType, updateMessageType] = useState<MessageType>("log");
 
-  useEffect(() => {
-    console.log("Data", allDesigns);
-  }, []);
-
   return (
     <div className="main">
       <header>
